@@ -4,6 +4,6 @@
   </Project>
   <Project Path="ProductivityPlanner.API.csproj" />
   <Project Path="ProductivityPlanner.Mobile/ProductivityPlanner.Mobile.csproj" Id="81fa9a92-2aef-4f09-a78d-35dbf3206522">
-    <Deploy Solution="Debug|*" />
+    <Build Solution="Debug|*" Project="false" />
   </Project>
 </Solution>
