@@ -22,6 +22,10 @@
 	  <Content Remove="ProductivityPlanner.Desktop\**\*" />
 	  <EmbeddedResource Remove="ProductivityPlanner.Desktop\**\*" />
 	  <None Remove="ProductivityPlanner.Desktop\**\*" />
+	  <Compile Remove="ProductivityPlanner.Mobile\**\*" />
+	  <Content Remove="ProductivityPlanner.Mobile\**\*" />
+	  <EmbeddedResource Remove="ProductivityPlanner.Mobile\**\*" />
+	  <None Remove="ProductivityPlanner.Mobile\**\*" />
   </ItemGroup>
 
 </Project>
